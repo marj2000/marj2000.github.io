@@ -19,3 +19,6 @@ Enhancements:
 Project: Client/Server Application
 Course: CS 340: Client/Server Development
 Enhancements: 
+
+## Code Review
+[Click here to view the Code Review video](code_review.md)
