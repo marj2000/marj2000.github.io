@@ -29,5 +29,11 @@ Enhancements:
 - **Original Artifact:** [View Original Artifact](Milestone%202/Artifact%201/Project3JeniceMario.vcxproj)
 - **Enhanced Artifact:** [View Enhanced Artifact](Milestone%202/Enhancement%201/Artifact1JeniceMario.csproj)
 - **Test Data:**
-  - [Input File](Milestone%202/Test%20Data/CS210_Project_Three_Input_File.txt)
-  - [Test Data Excel](Milestone%202/Test%20Data/TestData.xlsx)
+## Milestone Two: Enhancement One: Software Design and Engineering
+
+- **Narrative:** [View Narrative](Milestone%202/CS%20499%20Milestone%20Two%20Narrative%20Jenice%20Mario.docx)
+- **Original Artifact:** [View Original Artifact](Milestone%202/Artifact%201/Project3JeniceMario.vcxproj)
+- **Enhanced Artifact:** [View Enhanced Artifact](Milestone%202/Enhancement%201/Artifact1JeniceMario.csproj)
+- **Test Data:**
+  - [Input File](Milestone%202/Enhancement%201/Test%20Data/CS210_Project_Three_Input_File.txt)
+  - [Test Data Excel](Milestone%202/Enhancement%201/Test%20Data/TestData.xlsx)
